@@ -10,7 +10,9 @@ A dupe editor and viewer for GMOD inspired by NBTEdit for Minecraft.
 # Usage
 1) Open the console and type ``dupe_editor``
 2) Select a dupe you would like to mess with
-   
+
+Example of modified dupe: https://steamcommunity.com/sharedfiles/filedetails/?id=3474154428
+
 NOTE: Every table key/value can be right-clicked
 
 ![image](https://github.com/user-attachments/assets/a6082f2e-6f0a-4fd1-9c78-ac5712c8bd85)
@@ -30,7 +32,7 @@ Will open a new window that will show you all entities on the map
 
 Basically I wrote this because I wanted to find potential bugs/exploits in either gmod itself or addons, which I did !
 
-SOOO, some features are purely made for myself like ``Remove bottom 5% smallest props`` if you find it, don't click it, because it will calculate all ``Mins`` and ``Maxs`` of all entities in a dupe, and remove the smallest.
+SOOO, some features are purely made for myself like ``Remove bottom 5% smallest props`` if you find it, don't click it, because it will calculate all ``Mins`` and ``Maxs`` of all entities in a dupe, and remove the smallest bottom 5%.
 
 Stuff like that
 
