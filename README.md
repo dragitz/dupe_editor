@@ -33,8 +33,17 @@ Basically I wrote this because I wanted to find potential bugs/exploits in eithe
 SOOO, some features are purely made for myself like ``Remove bottom 5% smallest props`` if you find it, don't click it, because it will calculate all ``Mins`` and ``Maxs`` of all entities in a dupe, and remove the smallest.
 
 Stuff like that
+
+--
+
 You can copy and paste an entity's data directly into the dupe you are editing, by simply right-clicking on a table and hitting ``Insert copied entity`` 
 **NOTE**: There are two methods to copy data, ``NET`` and ``JSON``. JSON will save everything (best one) NET is slightly limited in its own way, but works.
 
 The advantage of copying with JSON, is that the copy gets saved to ``\Steam\steamapps\common\GarrysMod\garrysmod\data\dupe_editor_json.json`` 
 which will make editing a dupe also viable externally
+
+-- 
+
+Also there are tiny bugs, will not fix anytime soon, or perhaps whenever I have time/will to update.
+
+Other than that.. don't publish this in the workshop pls? It's in a stable but unfinished state
